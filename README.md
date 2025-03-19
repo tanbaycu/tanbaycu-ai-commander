@@ -222,7 +222,11 @@ python tanbaycu_chatbot.py
 - Sử dụng các lệnh bắt đầu bằng `/` để truy cập các tính năng đặc biệt
 
 ## 🚀 Tính năng chính
-
+<img src="https://i.postimg.cc/NfB7WnHb/image.png" width="200">
+<img src="https://i.postimg.cc/FzgbYy2j/image.png" width="200">
+<img src="https://i.postimg.cc/VvcBsGHf/image.png" width="200">
+<img src="https://i.postimg.cc/GmMQPj9K/image.png" width="200">
+<img src="https://i.postimg.cc/9QXbqkXz/118-BA636-5-BDA-4-C3-A-8-B23-5559-FA9-B3058.png" width="200">
 ### Đa dạng Model AI
 
 - **17+ model văn bản**: Claude, GPT-4o, Gemini, Llama, và nhiều model khác
@@ -366,6 +370,7 @@ Chúng tôi hoan nghênh mọi đóng góp! Nếu bạn muốn tham gia phát tr
 [Linktree Profile](https://linktr.ee/tanbaycu)
 
 [Linktree Projects Chatbot](https://linktr.ee/chatbottelegram)
+
 ---
 
 <p align="center"
